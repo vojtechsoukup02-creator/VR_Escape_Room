@@ -1,0 +1,321 @@
+{
+    "rooms": [
+        {
+            "roomPrefabIndex": 0,
+            "slots": [
+                {
+                    "puzzlePrefabIndex": 0,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            false,
+                            false
+                        ],
+                        "cpuStates": [
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            true,
+                            false,
+                            false,
+                            false
+                        ],
+                        "ramActiveCounts": [
+                            0,
+                            0,
+                            4,
+                            4,
+                            0,
+                            0
+                        ]
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": 1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": [
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true
+                                ]
+                            },
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": -1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                }
+            ],
+            "roomLockPlaced": true,
+            "hexCode": "DE"
+        },
+        {
+            "roomPrefabIndex": 2,
+            "slots": [
+                {
+                    "puzzlePrefabIndex": -1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": 2,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true,
+                            true
+                        ],
+                        "itemTargetSphereIndices": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "zoneNames": [
+                            "",
+                            "",
+                            ""
+                        ]
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": 1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": [
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true
+                                ]
+                            },
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "roomLockPlaced": true,
+            "hexCode": "1BC"
+        },
+        {
+            "roomPrefabIndex": 3,
+            "slots": [
+                {
+                    "puzzlePrefabIndex": -1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": -1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": -1,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                }
+            ],
+            "roomLockPlaced": false,
+            "hexCode": "000"
+        }
+    ]
+}
