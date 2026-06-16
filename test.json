@@ -9,8 +9,8 @@
                     "puzzle1Data": {
                         "motherboardStates": [
                             true,
-                            true,
-                            true,
+                            false,
+                            false,
                             false,
                             false,
                             false,
@@ -18,8 +18,8 @@
                         ],
                         "cpuStates": [
                             true,
-                            true,
-                            true,
+                            false,
+                            false,
                             false,
                             false,
                             false,
@@ -28,8 +28,8 @@
                             false
                         ],
                         "ramActiveCounts": [
-                            4,
-                            4,
+                            1,
+                            0,
                             0,
                             0,
                             0,
@@ -46,66 +46,8 @@
                     }
                 },
                 {
-                    "puzzlePrefabIndex": -1,
-                    "lockPrefabIndex": -1,
-                    "puzzle1Data": {
-                        "motherboardStates": [],
-                        "cpuStates": [],
-                        "ramActiveCounts": []
-                    },
-                    "puzzle2Data": {
-                        "itemActiveStates": [],
-                        "itemTargetSphereIndices": [],
-                        "zoneNames": []
-                    },
-                    "puzzle3Data": {
-                        "sets": []
-                    }
-                },
-                {
-                    "puzzlePrefabIndex": -1,
-                    "lockPrefabIndex": -1,
-                    "puzzle1Data": {
-                        "motherboardStates": [],
-                        "cpuStates": [],
-                        "ramActiveCounts": []
-                    },
-                    "puzzle2Data": {
-                        "itemActiveStates": [],
-                        "itemTargetSphereIndices": [],
-                        "zoneNames": []
-                    },
-                    "puzzle3Data": {
-                        "sets": []
-                    }
-                }
-            ],
-            "roomLockPlaced": false,
-            "hexCode": "000"
-        },
-        {
-            "roomPrefabIndex": 2,
-            "slots": [
-                {
-                    "puzzlePrefabIndex": -1,
-                    "lockPrefabIndex": -1,
-                    "puzzle1Data": {
-                        "motherboardStates": [],
-                        "cpuStates": [],
-                        "ramActiveCounts": []
-                    },
-                    "puzzle2Data": {
-                        "itemActiveStates": [],
-                        "itemTargetSphereIndices": [],
-                        "zoneNames": []
-                    },
-                    "puzzle3Data": {
-                        "sets": []
-                    }
-                },
-                {
                     "puzzlePrefabIndex": 1,
-                    "lockPrefabIndex": -1,
+                    "lockPrefabIndex": 0,
                     "puzzle1Data": {
                         "motherboardStates": [],
                         "cpuStates": [],
@@ -123,23 +65,23 @@
                                 "mainObjectActive": true,
                                 "labelActiveStates": [
                                     true,
+                                    false,
+                                    false,
                                     true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true,
-                                    true
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false
                                 ]
                             },
                             {
                                 "savedSeed": 12345,
-                                "mainObjectActive": true,
+                                "mainObjectActive": false,
                                 "labelActiveStates": [
                                     true,
                                     true,
@@ -160,8 +102,171 @@
                     }
                 },
                 {
-                    "puzzlePrefabIndex": -1,
+                    "puzzlePrefabIndex": 2,
+                    "lockPrefabIndex": 1,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            true
+                        ],
+                        "itemTargetSphereIndices": [
+                            2,
+                            -1,
+                            0,
+                            1,
+                            2,
+                            0,
+                            0,
+                            2,
+                            2,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "zoneNames": [
+                            "Displej",
+                            "Napájení",
+                            "Data & Příslušenství"
+                        ]
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                }
+            ],
+            "roomLockPlaced": true,
+            "hexCode": "6F"
+        },
+        {
+            "roomPrefabIndex": 3,
+            "slots": [
+                {
+                    "puzzlePrefabIndex": 2,
+                    "lockPrefabIndex": 2,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [
+                            true,
+                            false,
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            true,
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            true
+                        ],
+                        "itemTargetSphereIndices": [
+                            2,
+                            2,
+                            0,
+                            0,
+                            2,
+                            0,
+                            2,
+                            2,
+                            2,
+                            1,
+                            1,
+                            1,
+                            1,
+                            2,
+                            2,
+                            0,
+                            1
+                        ],
+                        "zoneNames": [
+                            "Displej",
+                            "Napájení",
+                            "Data & Příslušenství"
+                        ]
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": 0,
                     "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            true,
+                            false
+                        ],
+                        "cpuStates": [
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false,
+                            true,
+                            false,
+                            false
+                        ],
+                        "ramActiveCounts": [
+                            1,
+                            0,
+                            1,
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": 1,
+                    "lockPrefabIndex": 3,
                     "puzzle1Data": {
                         "motherboardStates": [],
                         "cpuStates": [],
@@ -173,12 +278,51 @@
                         "zoneNames": []
                     },
                     "puzzle3Data": {
-                        "sets": []
+                        "sets": [
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false
+                                ]
+                            },
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false,
+                                    false
+                                ]
+                            }
+                        ]
                     }
                 }
             ],
             "roomLockPlaced": true,
-            "hexCode": "6F"
+            "hexCode": "DE"
         }
     ]
 }
