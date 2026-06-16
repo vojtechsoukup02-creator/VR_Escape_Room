@@ -46,6 +46,171 @@
                     }
                 },
                 {
+                    "puzzlePrefabIndex": 2,
+                    "lockPrefabIndex": 3,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            true,
+                            true,
+                            true
+                        ],
+                        "itemTargetSphereIndices": [
+                            2,
+                            -1,
+                            0,
+                            1,
+                            -1,
+                            0,
+                            0,
+                            -1,
+                            0,
+                            2,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            2
+                        ],
+                        "zoneNames": [
+                            "Moderdní",
+                            "Legacy (Starší)",
+                            "Příslušenství / Napájení"
+                        ]
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
+                    "puzzlePrefabIndex": 1,
+                    "lockPrefabIndex": 3,
+                    "puzzle1Data": {
+                        "motherboardStates": [],
+                        "cpuStates": [],
+                        "ramActiveCounts": []
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": [
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true
+                                ]
+                            },
+                            {
+                                "savedSeed": 12345,
+                                "mainObjectActive": true,
+                                "labelActiveStates": [
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true,
+                                    true
+                                ]
+                            }
+                        ]
+                    }
+                }
+            ],
+            "roomLockPlaced": true,
+            "hexCode": "6F"
+        }
+    ]
+}{
+    "rooms": [
+        {
+            "roomPrefabIndex": 0,
+            "slots": [
+                {
+                    "puzzlePrefabIndex": 0,
+                    "lockPrefabIndex": -1,
+                    "puzzle1Data": {
+                        "motherboardStates": [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        "cpuStates": [
+                            true,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false,
+                            false
+                        ],
+                        "ramActiveCounts": [
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ]
+                    },
+                    "puzzle2Data": {
+                        "itemActiveStates": [],
+                        "itemTargetSphereIndices": [],
+                        "zoneNames": []
+                    },
+                    "puzzle3Data": {
+                        "sets": []
+                    }
+                },
+                {
                     "puzzlePrefabIndex": 1,
                     "lockPrefabIndex": 0,
                     "puzzle1Data": {
